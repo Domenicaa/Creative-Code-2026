@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding:}
+canvas {
+  display: block;
+}
+
+p{
+  color: blue;
+  background-color: yellow;
+}
+
+h1{
+  color: red;
+}
